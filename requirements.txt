@@ -1,0 +1,9 @@
+PyQt6
+shutil
+psutil
+socket
+uuid
+keyboard
+sys
+webbrowser
+requests
